@@ -218,4 +218,15 @@ Now modify this code to make it YOUR own!
 
 ## AI Feedback
 
-> ⏳ No feedback yet — submit your work using the coding environment to get AI feedback!
+**⚠️ MISSION INCOMPLETE**
+
+**Points: 0 | Total XP: 5**
+
+*Last reviewed: 2026-04-21 05:10 UTC*
+
+### Results
+
+- ❌ Add an <h1> heading - it's like a big title! **H1 heading** — *Must have an h1 heading*
+- ❌ Add at least one <p> paragraph for text **Paragraph** — *Must have at least two paragraphs*
+
+[View your Progress Tree](https://codequest-classroom2.github.io/cykau6-code)
