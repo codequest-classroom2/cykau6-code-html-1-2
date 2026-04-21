@@ -1,8 +1,15 @@
 {
-  "username": "{{student_username}}",
-  "name": "{{student_name}}",
-  "xp": 0,
-  "badges": [],
-  "completedMissions": [],
-  "currentMission": "{{mission_id}}"
+  "username": "cykau6-code",
+  "name": "TEST",
+  "xp": 5,
+  "currentMission": "html-1-2",
+  "completedMissions": [
+    {
+      "id": "html-1-1",
+      "at": "2026-04-21T05:09:51.547200"
+    }
+  ],
+  "unlockedMissions": [
+    "html-1-1"
+  ]
 }
